@@ -1,0 +1,15 @@
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\Karim Osman\Desktop\Store.API\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
